@@ -1,0 +1,3 @@
+/home/samrakshan-s-pc/Desktop/dumm/build/CMakeFiles/DronePlanner.dir
+/home/samrakshan-s-pc/Desktop/dumm/build/CMakeFiles/edit_cache.dir
+/home/samrakshan-s-pc/Desktop/dumm/build/CMakeFiles/rebuild_cache.dir
