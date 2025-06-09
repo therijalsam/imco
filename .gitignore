@@ -1,4 +1,12 @@
+# build directory
 build/
+
+# object and executable files
 *.o
 *.exe
-*.txt
+
+# IDE files
+.idea/
+
+# only ignore our output file, not every .txt
+src/result.txt
